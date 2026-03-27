@@ -6,7 +6,6 @@ weight: 30
 status: ""
 draft: false
 lastmod: 2026-03-18T11:22:04+01:00
-last_editor: Erik Hagen
 
 ---
 
