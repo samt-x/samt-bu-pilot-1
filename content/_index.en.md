@@ -1,8 +1,8 @@
 ---
 # id: auto-generated – copied values are overwritten automatically on push
 id: 1e7a803a-6aec-4ff4-95ae-f94eac2020bb
-title: "Team Pilot 1"
-linkTitle: "Team Pilot 1"
+title: "Pilot 1"
+linkTitle: "Pilot 1"
 weight: 10
 status: ""
 draft: false
