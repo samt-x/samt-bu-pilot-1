@@ -6,7 +6,7 @@ linkTitle: "Pilot 1"
 weight: 10
 status: ""
 draft: false
-lastmod: 2026-03-28T10:12:28+01:00
+lastmod: 2026-04-23T17:28:07+02:00
 last_editor: Erik Hagen
 
 ---
