@@ -1,6 +1,6 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
-id: 1e7a803a-6aec-4ff4-95ae-f94eac2020bb
+id: 43b084cb-6951-4529-86f4-3d56f939a51e
 title: Pilot 1
 linkTitle: Pilot 1
 weight: 10
@@ -10,4 +10,4 @@ lastmod: 2026-04-26T23:37:29+02:00
 last_editor: Erik Hagen
 
 ---
-Dokumentasjon fra pilot 1.
+TBD
