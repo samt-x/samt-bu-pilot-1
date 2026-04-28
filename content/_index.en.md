@@ -5,6 +5,8 @@ title: "Pilot 1 – architecture"
 linkTitle: "Pilot 1 – architecture"
 weight: 10
 status: "In progress"
+lastmod: 2026-04-29T01:15:05+02:00
+last_editor: Erik Hagen
 
 ---
 

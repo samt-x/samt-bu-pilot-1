@@ -4,6 +4,8 @@ id: c3642c32-45ac-4d09-9640-e4f8cb6971ae
 title: Brukerreiser
 linkTitle: Brukerreiser
 weight: 20
+lastmod: 2026-04-29T01:15:05+02:00
+last_editor: Erik Hagen
 
 ---
 ## Nåværende situasjon (AS-IS prosess): Overføring av elevliste fra grunnskole til vidergående skole
