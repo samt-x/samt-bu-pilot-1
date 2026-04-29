@@ -7,7 +7,7 @@ lastmod: 2026-04-29T01:15:05+02:00
 last_editor: Erik Hagen
 
 ---
-Pilot 1 tar utgangspunkt i case 1 og TBD..
+Pilot 1 tar utgangspunkt i case 1 og TBD.
 
 ## Avgrensing
 
