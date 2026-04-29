@@ -6,7 +6,7 @@ linkTitle: Pilot 1
 weight: 10
 status: Pågår
 draft: false
-lastmod: 2026-04-29T01:15:05+02:00
+lastmod: 2026-04-29T02:09:33+02:00
 last_editor: Erik Hagen
 
 ---
