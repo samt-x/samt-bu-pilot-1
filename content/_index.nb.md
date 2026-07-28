@@ -10,4 +10,4 @@ lastmod: 2026-04-29T13:19:22+02:00
 last_editor: Erik Hagen
 
 ---
-TBD.
+Pilot 1 prøver ut hvordan resultater fra opplæring kan gjøres tilgjengelige for dem som følger opp unge videre – til rett tid, i riktig form og for riktig aktør. Piloten omfatter både dataflyten mellom skoleslagene og arkitekturen som skal bære den.
