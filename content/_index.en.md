@@ -5,7 +5,7 @@ title: "Pilot 1 - Making results from education available"
 linkTitle: "Pilot 1 - Making results from education available"
 weight: 10
 status: "In progress"
-lastmod: 2026-04-29T01:15:05+02:00
+lastmod: 2026-07-28T22:11:14+02:00
 last_editor: Erik Hagen
 
 ---

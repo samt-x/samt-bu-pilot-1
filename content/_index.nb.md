@@ -6,7 +6,7 @@ linkTitle: Pilot 1 - Tilgjengeliggjøring av resultater fra opplæring
 weight: 10
 status: Pågår
 draft: false
-lastmod: 2026-04-29T13:19:22+02:00
+lastmod: 2026-07-28T22:11:14+02:00
 last_editor: Erik Hagen
 
 ---
