@@ -7,7 +7,7 @@ lastmod: 2026-04-29T13:06:58+02:00
 last_editor: Erik Hagen
 
 ---
-Pilot 1 tar utgangspunkt i case 1 og TBD.
+Pilot 1 tar utgangspunkt i [case 2 – Overgang grunnskole–videregående](https://docs.samt-bu.no/behov/use-cases/02-overgang-grunnskole-vgo/).
 
 ## Avgrensing
 
