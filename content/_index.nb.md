@@ -1,11 +1,9 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
 id: 43b084cb-6951-4529-86f4-3d56f939a51e
-title: Pilot 1 - Tilgjengeliggjøring av resultater fra opplæring
-linkTitle: Pilot 1 - Tilgjengeliggjøring av resultater fra opplæring
+title: Pilot 1 - Sømløs overgang mellom grunnskole og videregående
 weight: 10
 status: Pågår
-draft: false
 lastmod: 2026-07-28T22:11:14+02:00
 last_editor: Erik Hagen
 
