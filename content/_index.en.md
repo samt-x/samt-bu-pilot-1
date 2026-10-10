@@ -5,7 +5,7 @@ title: "Pilot 1 - Seamless transition between lower and upper secondary school"
 linkTitle: "Pilot 1 - Seamless transition between lower and upper secondary school"
 weight: 10
 status: "In progress"
-lastmod: 2026-10-10T17:47:49+02:00
+lastmod: 2026-10-10T17:51:10+02:00
 last_editor: Erik Hagen
 
 ---
