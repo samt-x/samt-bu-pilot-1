@@ -52,7 +52,9 @@ Piloten skal i denne omgang kun se på den enkleste formen for overføring av in
 
 ## BEMANNING 
 
-![](bilde-1785394037981.png)## GJENNOMFØRING
+![](bilde-1785394037981.png)
+
+## GJENNOMFØRING
 
 Pilotens arbeidspakker\
 Det er definert følgende arbeidspakker:
@@ -79,7 +81,7 @@ Piloten gjennomføres iterativt etter smidige prinsipper og i sprinter på 2 uke
 
 Det bør gjennomføres minst en retrospektiv i løpet av pilotperioden.
 
-Det settes opp en egen GitHub-løsning for prosjektet som skal benyttes i Piloten.
+Det settes opp en egen GitHub-løsning for prosjektet som skal benyttes i Piloten. Pilotens oppgaver følges opp som issues i [samt-bu-pilot-1](https://github.com/samt-x/samt-bu-pilot-1/issues).
 
 ## Overordnet plan
 
