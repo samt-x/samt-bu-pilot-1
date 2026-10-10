@@ -9,4 +9,4 @@ lastmod: 2026-10-10T17:47:49+02:00
 last_editor: Erik Hagen
 
 ---
-Pilot 1 explores how results from education can be made available to those who follow up young people afterwards – at the right time, in the right form and to the right actor. The pilot covers both the flow of data between levels of education and the architecture needed to support it.
+Pilot 1 concerns the transition from lower secondary to upper secondary education – how relevant information about the pupil can follow from the municipality to the county authority in a secure and accurate way, without the pupil or parents having to carry it between the actors themselves.
