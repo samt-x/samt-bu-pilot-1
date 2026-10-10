@@ -1,8 +1,8 @@
 ---
 # id: auto-generated – copied values are overwritten automatically on push
 id: b90412e8-ca33-41f4-bc57-17b4b44495e5
-title: "Overall architecture"
-linkTitle: "Overall architecture"
+title: "High-level architecture"
+linkTitle: "High-level architecture"
 weight: 20
 lastmod: 2026-04-29T01:15:05+02:00
 last_editor: Erik Hagen
