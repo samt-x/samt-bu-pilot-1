@@ -3,6 +3,9 @@ id: 8dcb24a7-2c3a-4bb5-a111-e362bc93ad23
 title: "Oppgaver og framdrift"
 linkTitle: "Oppgaver og framdrift"
 weight: 100
+lastmod: 2026-11-02T00:12:26+01:00
+last_editor: Erik Hagen
+
 ---
 
 Oppgavene i pilot 1 ligger som issues i [samt-bu-pilot-1](https://github.com/samt-x/samt-bu-pilot-1/issues) og på brettet [SAMT-BU Pilot 1 – Overgang ungdomsskole videregående](https://github.com/orgs/samt-x/projects/1) (Project 1). Denne siden viser hvor arbeidet står.
