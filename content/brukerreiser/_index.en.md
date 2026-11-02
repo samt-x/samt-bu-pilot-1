@@ -4,7 +4,7 @@ id: c3642c32-45ac-4d09-9640-e4f8cb6971ae
 title: "User journeys"
 linkTitle: "User journeys"
 weight: 20
-lastmod: 2026-04-29T01:15:05+02:00
+lastmod: 2026-11-02T21:37:42+01:00
 last_editor: Erik Hagen
 
 ---
