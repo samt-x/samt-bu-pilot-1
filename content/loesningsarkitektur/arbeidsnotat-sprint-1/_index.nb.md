@@ -4,6 +4,8 @@ id: 783af557-c427-4c0f-a0b9-8acdd411e0d7
 title: "Arbeidsnotat: arkitektur og målbilde (sprint 1)"
 linkTitle: "Arbeidsnotat sprint 1"
 weight: 10
+lastmod: 2026-11-03T19:45:04+01:00
+last_editor: Erik Hagen
 
 ---
 > **Historisk arbeidsnotat fra februar 2026.** Notatet er arbeidsgruppens forslag fra sprint 1, gjengitt uendret. Det lå på pilotens forside til mars 2026 (på engelsk til oktober), og ble hentet fram igjen fra git-historikken i november 2026 ([solution-samt-bu-docs#55](https://github.com/samt-x/solution-samt-bu-docs/issues/55)). Arkitekturen for POC-en slik den kjører nå, står på [Løsningsarkitektur](../).

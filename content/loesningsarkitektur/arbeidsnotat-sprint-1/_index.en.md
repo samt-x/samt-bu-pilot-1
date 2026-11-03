@@ -4,6 +4,8 @@ id: 783af557-c427-4c0f-a0b9-8acdd411e0d7
 title: "Working note: architecture and target picture (sprint 1)"
 linkTitle: "Working note sprint 1"
 weight: 10
+lastmod: 2026-11-03T19:45:04+01:00
+last_editor: Erik Hagen
 
 ---
 > **Historical working note from February 2026.** The note is the working group's proposal from sprint 1, reproduced unchanged. It was on the pilot's front page until March 2026 (in English until October), and was recovered from the git history in November 2026 ([solution-samt-bu-docs#55](https://github.com/samt-x/solution-samt-bu-docs/issues/55)). The architecture of the POC as it runs now is described under [Solution architecture](../).
