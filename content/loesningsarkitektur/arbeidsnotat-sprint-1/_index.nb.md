@@ -108,7 +108,7 @@ Det langsiktige målbildet bygger på skalering av POC til en fullverdig løsnin
 
 Forslag for sprint 2 og 3:
 
-- Etablere en grunnmur for datadrevet tjenesteutvikling
+- Etablere en grunnmur for datasentrisk tjenesteutvikling
 - Etablere teknisk arkitektur: Sette opp ende-til-ende dataflyt (fra kilde til mottaker) i plattformen.
 - Bevise kildeuavhengighet: Demonstrere at arkitekturen håndterer data fra ulike kilder (både Vigilo og Visma) og mapper disse til samme struktur.
 - Juridisk rammeverk: Gjennomføre nødvendige avklaringer (ROS) knyttet til datadeling og personvern på tvers av forvaltningsnivåer.

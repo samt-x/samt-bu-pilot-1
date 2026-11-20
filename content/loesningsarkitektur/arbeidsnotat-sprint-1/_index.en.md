@@ -108,7 +108,7 @@ The long-term target picture builds on scaling the POC into a full solution for 
 
 Proposals for sprints 2 and 3:
 
-- Establish a foundation for data-driven service development
+- Establish a foundation for data-centric service development
 - Establish technical architecture: Set up end-to-end data flow (from source to recipient) in the platform.
 - Prove source independence: Demonstrate that the architecture handles data from different sources (both Vigilo and Visma) and maps them to the same structure.
 - Legal framework: Complete necessary clarifications (ROS) related to data sharing and privacy across administrative levels.

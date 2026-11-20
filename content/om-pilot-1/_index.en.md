@@ -11,7 +11,7 @@ last_editor: Erik Hagen
 
 ## INTRODUCTION
 
-The purpose of SAMT-BU is to establish a common foundation for collaboration and knowledge about data-driven service development and seamless user journeys across levels of government and sectors, piloted in the domain of children and young people – from kindergarten to higher education. Through practical experimentation and competence building, the project shall lay the groundwork for the common foundation to be mature and well known, so that it is used and built upon, in other domains as well.
+The purpose of SAMT-BU is to establish a common foundation for collaboration and knowledge about data-centric service development and seamless user journeys across administrative levels and sectors, piloted in the domain of children and young people – from kindergarten to higher education. Through practical experimentation and competence building, the project shall lay the groundwork for the common foundation to be mature and well known, so that it is used and built upon, in other domains as well.
 
 One of the project's most central deliverables is to provide MVPs and piloting of information models and services. The project also aims to take an agile approach to its work, based on curiosity and learning through experimentation in short iterations, so that we can quickly demonstrate real value and also quickly discover what does not work (fail fast). We will do this through pilot projects covering prioritised use cases.
 
