@@ -88,4 +88,4 @@ The work is coordinated weekly in the core group, with professional and architec
 
 All tasks on the board, with arrows showing which tasks wait for each other. What has happened is dark. Missing dates are calculated and dashed. The chart is generated from the board every hour. How to read it, and how a task gets into it: see [Timeline](/en/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje/) in task management.
 
-{{< inline-svg "project-1-en.svg" "/en/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje" >}}
+{{< inline-svg "project-1-en.svg" "/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje" >}}
