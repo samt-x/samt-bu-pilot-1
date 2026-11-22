@@ -7,82 +7,79 @@ lastmod: 2026-11-20T02:52:20+01:00
 last_editor: Erik Hagen
 
 ---
-## **Gjennomføring av pilot 1 - Sømløs overgang mellom grunnskole og videregående (per 02.03.2026)**
+## Behov
 
-## INNLEDNING
+Pilot 1 tar utgangspunkt i [case 2 – Overgang grunnskole–videregående](/behov/use-cases/02-overgang-grunnskole-vgo/).
 
-Formålet med SAMT-BU er å etablere et felles fundament for samarbeid og kunnskap om datasentrisk tjenesteutvikling og sømløse brukerreiser på tvers av forvaltningsnivåer og sektorer, med pilotering ut fra området barn og unge – fra barnehage til høyere utdanning.  Gjennom praktisk utprøving og kompetansebygging skal prosjektet legge grunnlag for at felles fundamentet er modent og kjent, slik at det blir brukt og bygget videre på, også på andre områder.
-
-Et av prosjektets mest sentrale produkter er å levere MVP-er og pilotering av informasjonsmodeller og tjenester. Prosjektet ønsker også å ha en smidig tilnærming til oppgavene basert på nysgjerrighet og læring gjennom utprøving i korte iterasjoner, slik at vi raskt kan vise reell verdi og også raskt finner ut hva som ikke fungerer (fail fast). Vi vil gjøre dette gjennom pilotprosjekter som dekker prioriterte use cases
-
-Dette dokumentet inneholder en beskrivelse av plan for gjennomføring av første pilot.  Selv om vi i dette dokumentet har beskrevet gjennomføring av pilot som en fasedreven prosess, forutsettes det at vi kommer til å arbeide iterativt der enkelte faser gjentas ved behov.
-
-## OMFANG OG AVGRENSNING
-
-### Bakgrunn
-
-Pilot 1 tar utgangspunkt i [case 2 – Overgang grunnskole–videregående](https://docs.samt-bu.no/behov/use-cases/02-overgang-grunnskole-vgo/).
-
-Caset tar for seg overgangen fra ungdomsskole til videregående opplæring – en av de mest sentrale overgangene i barn og unges livsløp. Overgangen innebærer både et skifte i skolehverdag og et formelt ansvarsskifte fra kommune til fylkeskommune, og berører mange aktører, tjenester og systemer.
+Overgangen fra ungdomsskole til videregående opplæring er en av de mest sentrale overgangene i barn og unges livsløp. Den innebærer både et skifte i skolehverdag og et formelt ansvarsskifte fra kommune til fylkeskommune, og berører mange aktører, tjenester og systemer.
 
 For ungdom er dette en fase preget av forventninger, valg og økt ansvar for egen hverdag. For foresatte handler det om trygghet for at barnet får riktig oppfølging. For ansatte i skole og støtteapparat handler det om å gi et godt tilbud, ofte under tidspress og med begrenset oversikt.
 
-I denne overgangen er det behov for at relevant informasjon følger eleven på en trygg, presis og forståelig måte – uten at eleven eller foresatte selv må fungere som informasjonsbærer mellom aktører. Caset belyser hvordan dagens praksis og systemer i begrenset grad støtter dette behovet.
+Relevant informasjon må følge eleven på en trygg, presis og forståelig måte, uten at eleven eller foresatte selv må bære den mellom aktørene. Dagens praksis og systemer støtter dette i liten grad. Hvordan overføringen gjøres i dag, står under [Nåsituasjon](/pilotering/pilot-1/naasituasjon/).
 
-### Pilotens målsetning
+## Mål
 
-Pilotens målsetning er å overføre informasjon fra grunnskole til videregående skolen på en måte som gir grunnlag for videreutvikling av sammenhengende tjenester. Om mulig skal løsningen være en MVP med skarpe data.
+Piloten skal overføre informasjon fra grunnskole til videregående skole på en måte som gir grunnlag for videreutvikling av sammenhengende tjenester. Om mulig skal løsningen være en MVP med skarpe data.
 
-### Pilotens produkter
+Fase 2 har dette målbildet: riktige og kvalitetssikrede opplysninger er tilgjengelige for autoriserte aktører til riktig tid, uten unødvendig manuell filhåndtering og uten at eleven eller foresatte må fungere som informasjonsbærer.
 
-Piloten har følgende produkter:
+## Omfang og avgrensning
 
-- Drømmereise som viser hvordan overgangen mellom grunnskole og videregående skole ville være i en perfekt verden.
-- Kjørende POC evt MVP som flytter relevante data fra kommunen til fylkeskommunen.
-- Informasjonsmodell som danner grunnlag for sammenhengende, tverrsektorielle tjenester
-- Løsningsmønstre som innspill til SAMT-BUs arbeid med rammeverk for utvikling av sammenhengende tjenester
-- Juridisk avklaring på hva piloten kan inneholde innenfor eksisterende regelverk og avtaler som må inngås
-- Juridisk rammeverk som grunnlag for SAMT-BUs arbeide med rammeverk for utvikling av sammenhengende tjenester
-- Erfaringsrapport som danner grunnlag for avgjørelse om piloten skal fortsette, overføres til andre eller avsluttes.
+Piloten gjennomføres i to faser.
 
-Selve gjennomføringen av piloten skal også danne grunnlag for oppdatering av prosjektets «dreiebok» for gjennomføring av denne typen prosjekter.
+**Fase 1** (februar–april 2026) så bare på den enkleste formen for overføring: listen over avgangselever i 10. klasse, som grunnskolen sender til Vigo i november hvert år. Piloten skulle levere:
 
-Avgrensning\
-Piloten skal i denne omgang kun se på den enkleste formen for overføring av informasjon fra kommunen til fylkeskommunen i forbindelse med overgangen mellom grunnskole og videregående skole.
+- en drømmereise for overgangen i en perfekt verden
+- en kjørende POC eller MVP som flytter relevante data fra kommunen til fylkeskommunen
+- en informasjonsmodell som grunnlag for sammenhengende, tverrsektorielle tjenester
+- løsningsmønstre som innspill til SAMT-BUs rammeverk
+- juridisk avklaring av hva piloten kan inneholde innenfor dagens regelverk, og et juridisk rammeverk som grunnlag for prosjektets videre arbeid
+- en erfaringsrapport som grunnlag for å avgjøre om piloten skal fortsette
 
-## BEMANNING 
+**Fase 2** (12 uker, ikke startet) utvider til relevante opplysninger i VIGO 1, 2 og 3, blant annet karakterer. Den bredere elevreisen, med tilrettelegging, tiltak og oppfølging, skal styre retningen, mens prototypen tester et smalt og målbart utsnitt. Planen er et utkast, se [Veikart](/pilotering/pilot-1/loesningsvalg/veikart/).
 
-![](bilde-1785394037981.png)
+## Deltakere
 
-## GJENNOMFØRING
+### Fase 1
 
-Pilotens arbeidspakker\
-Det er definert følgende arbeidspakker:
+| Navn | Rolle | Virksomhet |
+|---|---|---|
+| Torbjørn Moen | Prosjektleder SAMT-BU | KS Digital, innleid av Digdir |
+| Anamarija Carotta | Teamleder, utvikling | Innleid av KS Digital |
+| Helena Larson | Tjenestedesigner | Innleid av KS Digital |
+| Håkon Søgnen | Løsningsarkitekt | Innleid av KS Digital |
+| Heine Furubotten | Dataingeniør | Innleid av KS Digital |
+| Maren Stefansen | Jurist | Digdir |
+| Sunniva Slotten | Jurist | Digdir |
+| Lotte Sørensen | Jurist | Innleid av KS Digital |
+| Kjersti Steien | Teamleder, informasjonsmodeller | Digdir |
+| Cath Holten | Informasjonsarkitekt | Digdir |
+| Christiane Fröhlich | Informasjonsmodeller | Digdir |
+| Terje Bertelsen | Informasjonsmodeller | Digdir |
+| Pål Asle Reiersgaard | Informasjonsarkitekt | KS Digital |
+| Anne Synnøve Sundsteigen | | Novari |
+| Anders Alstad | | Novari |
+| Geir Vangen | Informasjonsmodeller | Novari |
+| Inge Strømmen | Behovseier | Bergen kommune |
+| Hildegunn Grindheim | Behovseier | Bergen kommune |
+| Anne Kathrine Haugen | | Sikt |
 
-1. Drømmereise (kjerneteam)
-2. Kjørende POC evt MVP
-3. Informasjonsmodell
-4. Arkitektur
-5. Oversikt over juridisk mulighetsrom
-6. Juridisk rammeverk
-7. Erfaringsrapport (kjerneteam)
+Støtteressurser: Erik Hagen, Wenche Fyken og Pål Unanue-Zahl (kjerneteamet, Digdir), Mina Ottestad Gaupseth (kjerneteamet, KS Digital), Morten Græsby og Marte Kjelvik (Digdir), Cecilie Hoe (HK-dir) og Kjartan Steffensen (SSB).
 
-### Viktige milepæler
+### Fase 2
 
-Piloten har følgende viktige milepæler:
+Foreslått bemanning, som skal bekreftes ved oppstart:
 
-- Når det er avklart hvilke informasjonselementer piloten skal inneholde.
-- Når det er gjennomført en ROS-analyse for piloten
-- Når det er gjort en beslutning om veien videre for piloten
+| Navn | Rolle | Virksomhet |
+|---|---|---|
+| Inge Strømmen | Prosjektleder, grunnskole | KS Digital / Bergen kommune |
+| Ann-Kristin Skorge | Grunnskole | Bergen kommune |
+| Inger Johanne Kibsgard | Grunnskole | Bergen kommune |
+| Trude Riple | VGO/inntak | Foreslått |
+| Natalia Gundersen | VGO/inntak | Novari |
+| Christiane Fröhlich | Informasjonsarkitekt | Digdir |
+| Anders Alstad | Virksomhets- og løsningsarkitektur | Novari |
+| Benedicte Sørlie Olsen | Juss og sikkerhet | |
+| IST og Novari | Utvikling og leverandør | |
 
-### Praktisk gjennomføring
-
-Piloten gjennomføres iterativt etter smidige prinsipper og i sprinter på 2 uker. Hver sprint starter med et planleggingsmøte og avsluttes med en demo. I utgangspunktet er det ønskelig å gjennomføre daglige standups for hele piloten samlet, men etter hvert kan det være tilstrekkelig at arbeidet koordineres i hver av arbeidspakkene.
-
-Det bør gjennomføres minst en retrospektiv i løpet av pilotperioden.
-
-Det settes opp en egen GitHub-løsning for prosjektet som skal benyttes i Piloten. Pilotens oppgaver følges opp som issues i [samt-bu-pilot-1](https://github.com/samt-x/samt-bu-pilot-1/issues).
-
-## Overordnet plan
-
-![](bilde-1785394193785.png)
+Støtte: SAMT-BUs tverrgående arkitekturarbeid, Utdanningsdirektoratet, Sikt, STAF, systemleverandørene og en referansegruppe med kommuner, fylkeskommuner og andre SAMT-BU-caser.

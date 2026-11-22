@@ -8,7 +8,7 @@ lastmod: 2026-11-20T02:52:20+01:00
 last_editor: Erik Hagen
 
 ---
-> **Historical working note from February 2026.** The note is the working group's proposal from sprint 1, reproduced unchanged. It was on the pilot's front page until March 2026 (in English until October), and was recovered from the git history in November 2026 ([solution-samt-bu-docs#55](https://github.com/samt-x/solution-samt-bu-docs/issues/55)). The architecture of the POC as it runs now is described under [Solution architecture](../).
+> **Historical working note from February 2026.** The note is the working group's proposal from sprint 1, reproduced unchanged. It was on the pilot's front page until March 2026 (in English until October), and was recovered from the git history in November 2026 ([solution-samt-bu-docs#55](https://github.com/samt-x/solution-samt-bu-docs/issues/55)). The architecture of the POC as it runs now is described under [Chosen solution now](/en/pilotering/pilot-1/loesningsvalg/valgt-loesning-naa/).
 
 *Working document – Architecture and target picture, SAMT-BU*
 

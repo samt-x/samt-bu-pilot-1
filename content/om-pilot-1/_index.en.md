@@ -7,82 +7,79 @@ lastmod: 2026-11-20T02:52:20+01:00
 last_editor: Erik Hagen
 
 ---
-## **Carrying out pilot 1 - Seamless transition between lower and upper secondary school (as of 2 March 2026)**
+## Need
 
-## INTRODUCTION
+Pilot 1 takes as its starting point [case 2 – Transition from primary and lower secondary to upper secondary](/en/behov/use-cases/02-overgang-grunnskole-vgo/).
 
-The purpose of SAMT-BU is to establish a common foundation for collaboration and knowledge about data-centric service development and seamless user journeys across administrative levels and sectors, piloted in the domain of children and young people – from kindergarten to higher education. Through practical experimentation and competence building, the project shall lay the groundwork for the common foundation to be mature and well known, so that it is used and built upon, in other domains as well.
-
-One of the project's most central deliverables is to provide MVPs and piloting of information models and services. The project also aims to take an agile approach to its work, based on curiosity and learning through experimentation in short iterations, so that we can quickly demonstrate real value and also quickly discover what does not work (fail fast). We will do this through pilot projects covering prioritised use cases.
-
-This document describes the plan for carrying out the first pilot. Although the pilot is described here as a phase-driven process, we assume that we will work iteratively, with individual phases repeated as needed.
-
-## SCOPE AND DELIMITATION
-
-### Background
-
-Pilot 1 takes as its starting point [case 2 – Transition from primary to upper secondary](https://docs.samt-bu.no/en/behov/use-cases/02-overgang-grunnskole-vgo/).
-
-The case concerns the transition from lower secondary to upper secondary education – one of the most important transitions in the lives of children and young people. The transition involves both a change in everyday school life and a formal transfer of responsibility from the municipality to the county authority, and it involves many actors, services and systems.
+The transition from lower secondary school to upper secondary education is one of the most important transitions in the lives of children and young people. It involves both a change in everyday school life and a formal transfer of responsibility from the municipality to the county authority, and it affects many actors, services and systems.
 
 For young people, this is a phase marked by expectations, choices and increased responsibility for their own everyday life. For parents, it is about being confident that the child receives the right follow-up. For staff in schools and support services, it is about providing a good offer, often under time pressure and with limited overview.
 
-In this transition, relevant information needs to follow the pupil in a secure, accurate and understandable way – without the pupil or parents having to act as carriers of information between actors. The case shows how current practice and systems only to a limited extent support this need.
+Relevant information must follow the pupil in a secure, accurate and understandable way, without the pupil or parents having to carry it between the actors themselves. Current practice and systems support this only to a limited extent. How the transfer is done today is described under [Current situation](/en/pilotering/pilot-1/naasituasjon/).
 
-### Objective of the pilot
+## Objective
 
-The objective of the pilot is to transfer information from lower secondary to upper secondary school in a way that provides a basis for further development of seamless services. If possible, the solution shall be an MVP using live data.
+The pilot shall transfer information from primary and lower secondary school to upper secondary school in a way that provides a basis for further development of seamless services. If possible, the solution shall be an MVP using live data.
 
-### Deliverables of the pilot
+Phase 2 has this target picture: correct and quality-assured information is available to authorised actors at the right time, without unnecessary manual file handling and without the pupil or parents having to act as carriers of information.
 
-The pilot has the following deliverables:
+## Scope and delimitation
 
-- A dream journey showing what the transition between lower and upper secondary school would be like in a perfect world.
-- A running POC or MVP that moves relevant data from the municipality to the county authority.
-- An information model that provides the basis for seamless, cross-sectoral services.
-- Solution patterns as input to SAMT-BU's work on a framework for developing seamless services.
-- Legal clarification of what the pilot can include within existing regulations, and which agreements must be entered into.
-- A legal framework as a basis for SAMT-BU's work on a framework for developing seamless services.
-- A lessons-learned report that provides the basis for deciding whether the pilot should continue, be transferred to others or be concluded.
+The pilot is carried out in two phases.
 
-Carrying out the pilot will also provide a basis for updating the project's playbook for this type of project.
+**Phase 1** (February–April 2026) looked only at the simplest form of transfer: the list of Year 10 school leavers, which the primary and lower secondary school sends to Vigo in November every year. The pilot was to deliver:
 
-Delimitation\
-For now, the pilot will only look at the simplest form of transferring information from the municipality to the county authority in connection with the transition between lower and upper secondary school.
+- a dream journey for the transition in a perfect world
+- a running POC or MVP that moves relevant data from the municipality to the county authority
+- an information model as a basis for seamless, cross-sectoral services
+- solution patterns as input to SAMT-BU's framework
+- legal clarification of what the pilot can include within existing regulations, and a legal framework as a basis for the project's further work
+- a lessons-learned report as a basis for deciding whether the pilot should continue
 
-## STAFFING
+**Phase 2** (12 weeks, not started) extends this to relevant information in VIGO 1, 2 and 3, including grades. The broader pupil journey, with adaptations, measures and follow-up, shall set the direction, while the prototype tests a narrow and measurable slice. The plan is a draft, see [Roadmap](/en/pilotering/pilot-1/loesningsvalg/veikart/).
 
-![](bilde-1785394037981.png)
+## Participants
 
-## EXECUTION
+### Phase 1
 
-Work packages of the pilot\
-The following work packages have been defined:
+| Name | Role | Organisation |
+|---|---|---|
+| Torbjørn Moen | Project manager SAMT-BU | KS Digital, hired by Digdir |
+| Anamarija Carotta | Team lead, development | Hired by KS Digital |
+| Helena Larson | Service designer | Hired by KS Digital |
+| Håkon Søgnen | Solution architect | Hired by KS Digital |
+| Heine Furubotten | Data engineer | Hired by KS Digital |
+| Maren Stefansen | Lawyer | Digdir |
+| Sunniva Slotten | Lawyer | Digdir |
+| Lotte Sørensen | Lawyer | Hired by KS Digital |
+| Kjersti Steien | Team lead, information models | Digdir |
+| Cath Holten | Information architect | Digdir |
+| Christiane Fröhlich | Information modeller | Digdir |
+| Terje Bertelsen | Information modeller | Digdir |
+| Pål Asle Reiersgaard | Information architect | KS Digital |
+| Anne Synnøve Sundsteigen | | Novari |
+| Anders Alstad | | Novari |
+| Geir Vangen | Information modeller | Novari |
+| Inge Strømmen | Need owner | Bergen kommune |
+| Hildegunn Grindheim | Need owner | Bergen kommune |
+| Anne Kathrine Haugen | | Sikt |
 
-1. Dream journey (core team)
-2. Running POC or MVP
-3. Information model
-4. Architecture
-5. Overview of the legal room for manoeuvre
-6. Legal framework
-7. Lessons-learned report (core team)
+Support resources: Erik Hagen, Wenche Fyken and Pål Unanue-Zahl (core team, Digdir), Mina Ottestad Gaupseth (core team, KS Digital), Morten Græsby and Marte Kjelvik (Digdir), Cecilie Hoe (HK-dir) and Kjartan Steffensen (SSB).
 
-### Key milestones
+### Phase 2
 
-The pilot has the following key milestones:
+Proposed staffing, to be confirmed at start-up:
 
-- When it has been clarified which information elements the pilot shall include.
-- When a risk and vulnerability analysis (ROS) has been carried out for the pilot.
-- When a decision has been made on the way forward for the pilot.
+| Name | Role | Organisation |
+|---|---|---|
+| Inge Strømmen | Project manager, primary and lower secondary school | KS Digital / Bergen kommune |
+| Ann-Kristin Skorge | Primary and lower secondary school | Bergen kommune |
+| Inger Johanne Kibsgard | Primary and lower secondary school | Bergen kommune |
+| Trude Riple | Upper secondary/admission | Proposed |
+| Natalia Gundersen | Upper secondary/admission | Novari |
+| Christiane Fröhlich | Information architect | Digdir |
+| Anders Alstad | Enterprise and solution architecture | Novari |
+| Benedicte Sørlie Olsen | Law and security | |
+| IST and Novari | Development and supplier | |
 
-### Practical execution
-
-The pilot is carried out iteratively according to agile principles, in two-week sprints. Each sprint starts with a planning meeting and ends with a demo. Initially, daily stand-ups for the whole pilot are desirable, but over time it may be sufficient to coordinate the work within each work package.
-
-At least one retrospective should be held during the pilot period.
-
-A dedicated GitHub solution is set up for the project and shall be used in the pilot. The pilot's tasks are followed up as issues in [samt-bu-pilot-1](https://github.com/samt-x/samt-bu-pilot-1/issues).
-
-## Overall plan
-
-![](bilde-1785394193785.png)
+Support: SAMT-BU's cross-cutting architecture work, the Norwegian Directorate for Education and Training (Utdanningsdirektoratet), Sikt, STAF, the system suppliers and a reference group of municipalities, county authorities and other SAMT-BU cases.

@@ -8,7 +8,7 @@ lastmod: 2026-11-20T02:52:20+01:00
 last_editor: Erik Hagen
 
 ---
-> **Historisk arbeidsnotat fra februar 2026.** Notatet er arbeidsgruppens forslag fra sprint 1, gjengitt uendret. Det lå på pilotens forside til mars 2026 (på engelsk til oktober), og ble hentet fram igjen fra git-historikken i november 2026 ([solution-samt-bu-docs#55](https://github.com/samt-x/solution-samt-bu-docs/issues/55)). Arkitekturen for POC-en slik den kjører nå, står på [Løsningsarkitektur](../).
+> **Historisk arbeidsnotat fra februar 2026.** Notatet er arbeidsgruppens forslag fra sprint 1, gjengitt uendret. Det lå på pilotens forside til mars 2026 (på engelsk til oktober), og ble hentet fram igjen fra git-historikken i november 2026 ([solution-samt-bu-docs#55](https://github.com/samt-x/solution-samt-bu-docs/issues/55)). Arkitekturen for POC-en slik den kjører nå, står på [Valgt løsning nå](/pilotering/pilot-1/loesningsvalg/valgt-loesning-naa/).
 
 *Arbeidsdokument – Arkitektur og målbilde, SAMT-BU*
 

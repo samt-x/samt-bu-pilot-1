@@ -8,4 +8,4 @@ lastmod: 2026-10-10T17:51:10+02:00
 last_editor: Erik Hagen
 
 ---
-Pilot 1 handler om overgangen fra ungdomsskole til videregående opplæring – hvordan relevant informasjon om eleven kan følge med fra kommunen til fylkeskommunen på en trygg og presis måte, uten at eleven eller foresatte selv må bære den mellom aktørene.
+Pilot 1 handler om overgangen fra ungdomsskole til videregående opplæring – hvordan relevant informasjon om eleven kan følge med fra kommunen til fylkeskommunen på en trygg og presis måte, uten at eleven eller foresatte selv må bære den mellom aktørene. Fase 1 ble avsluttet i april 2026 med en kjørende POC, og fase 2 er under planlegging.

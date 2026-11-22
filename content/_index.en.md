@@ -9,4 +9,4 @@ lastmod: 2026-10-10T17:51:10+02:00
 last_editor: Erik Hagen
 
 ---
-Pilot 1 concerns the transition from lower secondary to upper secondary education – how relevant information about the pupil can follow from the municipality to the county authority in a secure and accurate way, without the pupil or parents having to carry it between the actors themselves.
+Pilot 1 concerns the transition from lower secondary to upper secondary education – how relevant information about the pupil can follow from the municipality to the county authority in a secure and accurate way, without the pupil or parents having to carry it between the actors themselves. Phase 1 was concluded in April 2026 with a running POC, and phase 2 is being planned.
