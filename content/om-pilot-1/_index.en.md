@@ -15,7 +15,7 @@ The transition from lower secondary school to upper secondary education is one o
 
 For young people, this is a phase marked by expectations, choices and increased responsibility for their own everyday life. For parents, it is about being confident that the child receives the right follow-up. For staff in schools and support services, it is about providing a good offer, often under time pressure and with limited overview.
 
-Relevant information must follow the pupil in a secure, accurate and understandable way, without the pupil or parents having to carry it between the actors themselves. Current practice and systems support this only to a limited extent. How the transfer is done today is described under [Current situation](/en/pilotering/pilot-1/naasituasjon/).
+Relevant information must follow the pupil in a secure, accurate and understandable way, without the pupil or parents having to carry it between the actors themselves. Current practice and systems support this only to a limited extent. Who is affected and what they need is described under [Use cases and user needs](/en/pilotering/pilot-1/brukstilfeller-og-brukerbehov/), and how the transfer is done today under [Current situation](/en/pilotering/pilot-1/naasituasjon/).
 
 ## Objective
 

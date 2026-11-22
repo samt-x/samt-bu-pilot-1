@@ -15,7 +15,7 @@ Overgangen fra ungdomsskole til videregående opplæring er en av de mest sentra
 
 For ungdom er dette en fase preget av forventninger, valg og økt ansvar for egen hverdag. For foresatte handler det om trygghet for at barnet får riktig oppfølging. For ansatte i skole og støtteapparat handler det om å gi et godt tilbud, ofte under tidspress og med begrenset oversikt.
 
-Relevant informasjon må følge eleven på en trygg, presis og forståelig måte, uten at eleven eller foresatte selv må bære den mellom aktørene. Dagens praksis og systemer støtter dette i liten grad. Hvordan overføringen gjøres i dag, står under [Nåsituasjon](/pilotering/pilot-1/naasituasjon/).
+Relevant informasjon må følge eleven på en trygg, presis og forståelig måte, uten at eleven eller foresatte selv må bære den mellom aktørene. Dagens praksis og systemer støtter dette i liten grad. Hvem som berøres og hva de trenger, står under [Brukstilfeller og brukerbehov](/pilotering/pilot-1/brukstilfeller-og-brukerbehov/), og hvordan overføringen gjøres i dag, under [Nåsituasjon](/pilotering/pilot-1/naasituasjon/).
 
 ## Mål
 
