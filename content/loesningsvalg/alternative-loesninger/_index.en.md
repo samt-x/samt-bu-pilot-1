@@ -3,6 +3,8 @@ id: c4e98cfc-efc5-441d-9c63-c88cd22a6324
 title: "Alternative solutions"
 linkTitle: "Alternative solutions"
 weight: 10
+lastmod: 2026-11-22T04:06:29+01:00
+last_editor: Erik Hagen
 
 ---
 The architecture working group discussed early on whether the pilot should build an MVP or a POC. It recommended a POC in order to get started quickly, show how the actual problem can be solved, and at the same time illustrate the room for further use of data. The aim was functionality and learning, not a finished solution. The proposal from sprint 1 is in [Working note sprint 1](arbeidsnotat-sprint-1/).

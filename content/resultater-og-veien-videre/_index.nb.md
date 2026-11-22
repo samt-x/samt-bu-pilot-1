@@ -3,6 +3,8 @@ id: 6813b5d8-5548-4f1a-99dc-d654b2389d12
 title: "Resultater og veien videre"
 linkTitle: "Resultater og veien videre"
 weight: 90
+lastmod: 2026-11-22T04:06:29+01:00
+last_editor: Erik Hagen
 
 ---
 Fase 1 ble gjennomført februar–april 2026 og avsluttet med en demo 30. april. Kildene er avslutningspresentasjonen og erfaringsrapporten (versjon 1.0, 24. april 2026).

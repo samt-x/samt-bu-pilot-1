@@ -3,6 +3,8 @@ id: c4e98cfc-efc5-441d-9c63-c88cd22a6324
 title: "Alternative løsninger"
 linkTitle: "Alternative løsninger"
 weight: 10
+lastmod: 2026-11-22T04:06:29+01:00
+last_editor: Erik Hagen
 
 ---
 Arbeidsgruppen for arkitektur diskuterte tidlig om piloten skulle lage en MVP eller en POC. Den anbefalte en POC for å komme raskt i gang, vise hvordan det faktiske problemet kan løses, og samtidig illustrere mulighetsrommet for videre bruk av data. Målet var funksjonalitet og læring, ikke en ferdig løsning. Forslaget fra sprint 1 står i [Arbeidsnotat sprint 1](arbeidsnotat-sprint-1/).

@@ -6,7 +6,7 @@ linkTitle: "Juridiske forhold"
 weight: 60
 aliases:
  - /pilotering/pilot-1/juss/
-lastmod: 2026-04-29T01:15:05+02:00
+lastmod: 2026-11-22T04:06:29+01:00
 last_editor: Erik Hagen
 
 ---

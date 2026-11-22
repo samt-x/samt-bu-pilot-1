@@ -4,7 +4,7 @@ id: 43b084cb-6951-4529-86f4-3d56f939a51e
 title: Pilot 1 - Sømløs overgang mellom grunnskole og videregående
 weight: 10
 status: Pågår
-lastmod: 2026-10-10T17:51:10+02:00
+lastmod: 2026-11-22T04:06:29+01:00
 last_editor: Erik Hagen
 
 ---

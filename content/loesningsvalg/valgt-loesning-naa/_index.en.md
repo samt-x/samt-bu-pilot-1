@@ -7,7 +7,7 @@ weight: 30
 aliases:
  - /pilotering/pilot-1/loesningsarkitektur/
  - /pilotering/pilot-1/brukerreiser/poc-med-bruk-av-dataplattform/
-lastmod: 2026-04-30T13:33:06+02:00
+lastmod: 2026-11-22T04:06:29+01:00
 last_editor: Erik Hagen
 
 ---

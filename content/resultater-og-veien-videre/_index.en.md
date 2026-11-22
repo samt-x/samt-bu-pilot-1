@@ -3,6 +3,8 @@ id: 6813b5d8-5548-4f1a-99dc-d654b2389d12
 title: "Results and the way forward"
 linkTitle: "Results and the way forward"
 weight: 90
+lastmod: 2026-11-22T04:06:29+01:00
+last_editor: Erik Hagen
 
 ---
 Phase 1 was carried out from February to April 2026 and concluded with a demo on 30 April. The sources are the closing presentation and the lessons-learned report (version 1.0, 24 April 2026).

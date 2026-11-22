@@ -4,7 +4,7 @@ id: 783af557-c427-4c0f-a0b9-8acdd411e0d7
 title: "Arbeidsnotat: arkitektur og målbilde (sprint 1)"
 linkTitle: "Arbeidsnotat sprint 1"
 weight: 10
-lastmod: 2026-11-20T02:52:20+01:00
+lastmod: 2026-11-22T04:06:29+01:00
 last_editor: Erik Hagen
 
 ---
