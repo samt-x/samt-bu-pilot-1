@@ -3,6 +3,8 @@ id: 4ce6058d-f366-4db5-8128-14416208d52c
 title: "Use cases and user needs"
 linkTitle: "Use cases and user needs"
 weight: 20
+lastmod: 2026-11-22T04:19:59+01:00
+last_editor: Erik Hagen
 
 ---
 Who is affected by the transfer from primary and lower secondary school to upper secondary, what they need, and where it chafes today. The insight comes from the mapping of the current process in Bergen kommune and Vestland county authority, Novari's requirements for the transfer, and Oslo kommune's insight work.

@@ -3,6 +3,8 @@ id: 4ce6058d-f366-4db5-8128-14416208d52c
 title: "Brukstilfeller og brukerbehov"
 linkTitle: "Brukstilfeller og brukerbehov"
 weight: 20
+lastmod: 2026-11-22T04:19:59+01:00
+last_editor: Erik Hagen
 
 ---
 Hvem som berøres av overføringen fra grunnskole til videregående, hva de trenger, og hvor det skaver i dag. Innsikten kommer fra kartleggingen av dagens prosess i Bergen kommune og Vestland fylkeskommune, Novaris krav til overføringen og Oslo kommunes innsiktsarbeid.
