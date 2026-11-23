@@ -79,7 +79,8 @@ Proposed staffing, to be confirmed at start-up:
 | Natalia Gundersen | Upper secondary/admission | Novari |
 | Christiane Fröhlich | Information architect | Digdir |
 | Anders Alstad | Enterprise and solution architecture | Novari |
-| Benedicte Sørlie Olsen | Law and security | |
+| Benedicte Sørlie Olsen | Law and security | Digdir |
+| Hanne Finnøy | Service designer | Digdir |
 | IST and Novari | Development and supplier | |
 
 Support: SAMT-BU's cross-cutting architecture work, the Norwegian Directorate for Education and Training (Utdanningsdirektoratet), Sikt, STAF, the system suppliers and a reference group of municipalities, county authorities and other SAMT-BU cases.

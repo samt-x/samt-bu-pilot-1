@@ -104,8 +104,8 @@ The ROS work identified risks for the POC itself and for a future digital proces
 - Duplicate pupils when identification is not unique, for example when moving to a municipality with a different system.
 - The information from individual schools is not sufficiently separated.
 - «Ghost records» when pupils change school or municipality.
-- New data quality requirements in Vigilo that require major adaptations.
-- Planning functionality in Vigilo is synchronised too early.
+- New data quality requirements in the school administration system (OAS) that require major adaptations.
+- Planning functionality in the OAS is synchronised too early.
 - IST or VIGO do not have capacity to change the solution before and during operation.
 - Pupils lose access to the line-of-business system prematurely with frequent transfers.
 - Schools that are not supposed to be included are transferred anyway.
