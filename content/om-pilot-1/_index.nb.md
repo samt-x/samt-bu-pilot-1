@@ -43,7 +43,7 @@ Piloten gjennomføres i to faser.
 ### Fase 1
 
 | Navn | Rolle | Virksomhet |
-|---|---|---|
+| --- | --- | --- |
 | Torbjørn Moen | Prosjektleder SAMT-BU | KS Digital, innleid av Digdir |
 | Anamarija Carotta | Teamleder, utvikling | Innleid av KS Digital |
 | Helena Larson | Tjenestedesigner | Innleid av KS Digital |
@@ -57,12 +57,12 @@ Piloten gjennomføres i to faser.
 | Christiane Fröhlich | Informasjonsmodeller | Digdir |
 | Terje Bertelsen | Informasjonsmodeller | Digdir |
 | Pål Asle Reiersgaard | Informasjonsarkitekt | KS Digital |
-| Anne Synnøve Sundsteigen | | Novari |
-| Anders Alstad | | Novari |
+| Anne Synnøve Sundsteigen |  | Novari |
+| Anders Alstad |  | Novari |
 | Geir Vangen | Informasjonsmodeller | Novari |
 | Inge Strømmen | Behovseier | Bergen kommune |
 | Hildegunn Grindheim | Behovseier | Bergen kommune |
-| Anne Kathrine Haugen | | Sikt |
+| Anne Kathrine Haugen |  | Sikt |
 
 Støtteressurser: Erik Hagen, Wenche Fyken og Pål Unanue-Zahl (kjerneteamet, Digdir), Mina Ottestad Gaupseth (kjerneteamet, KS Digital), Morten Græsby og Marte Kjelvik (Digdir), Cecilie Hoe (HK-dir) og Kjartan Steffensen (SSB).
 
@@ -71,7 +71,7 @@ Støtteressurser: Erik Hagen, Wenche Fyken og Pål Unanue-Zahl (kjerneteamet, Di
 Foreslått bemanning, som skal bekreftes ved oppstart:
 
 | Navn | Rolle | Virksomhet |
-|---|---|---|
+| --- | --- | --- |
 | Inge Strømmen | Prosjektleder, grunnskole | KS Digital / Bergen kommune |
 | Ann-Kristin Skorge | Grunnskole | Bergen kommune |
 | Inger Johanne Kibsgard | Grunnskole | Bergen kommune |
@@ -79,7 +79,8 @@ Foreslått bemanning, som skal bekreftes ved oppstart:
 | Natalia Gundersen | VGO/inntak | Novari |
 | Christiane Fröhlich | Informasjonsarkitekt | Digdir |
 | Anders Alstad | Virksomhets- og løsningsarkitektur | Novari |
-| Benedicte Sørlie Olsen | Juss og sikkerhet | |
-| IST og Novari | Utvikling og leverandør | |
+| Benedicte Sørlie Olsen | Juss og sikkerhet |  |
+| Hanne Finnøy | Tjenestedesigner | Digdir |
+| IST og Novari | Utvikling og leverandør |  |
 
 Støtte: SAMT-BUs tverrgående arkitekturarbeid, Utdanningsdirektoratet, Sikt, STAF, systemleverandørene og en referansegruppe med kommuner, fylkeskommuner og andre SAMT-BU-caser.
