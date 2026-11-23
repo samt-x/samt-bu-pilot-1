@@ -1,8 +1,8 @@
 ---
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
 id: d6ff5943-b53d-4da7-8396-c038517ff6ee
-title: "Juridiske forhold"
-linkTitle: "Juridiske forhold"
+title: Juridiske forhold
+linkTitle: Juridiske forhold
 weight: 60
 aliases:
  - /pilotering/pilot-1/juss/
@@ -51,7 +51,7 @@ I stedet bør det legges vekt på klart formål, dataminimering, tilgangsstyring
 ## Sikkerhet og de registrertes rettigheter
 
 | Tema | Risiko | Tiltak i piloten |
-|---|---|---|
+| --- | --- | --- |
 | Åpenhet og informasjon | Manglende eller utydelig informasjon | Informasjonstekst til elever og foresatte om overføringen: formål, mottaker, datatyper og lagringstid |
 | Formålsbegrensning | Data brukes utover pilotens formål | Formålet (overføring for inntak) dokumenteres, og dataplattformen brukes bare til strukturering og kontrollert videreformidling. Ingen analyse eller sekundærbruk |
 | Dataminimering | For mange eller for detaljerte opplysninger | Et konkret og begrenset sett felter. Overskytende felter filtreres bort før overføring |
@@ -104,8 +104,8 @@ ROS-arbeidet identifiserte risikoer for selve POC-en og for en framtidig digital
 - Duplikate elever når identifikasjonen ikke er unik, for eksempel ved flytting til en kommune med et annet system.
 - Informasjonen fra enkeltskoler er ikke godt nok skilt fra hverandre.
 - «Spøkelsesposter» når elever bytter skole eller kommune.
-- Nye krav til datakvalitet i Vigilo som krever større tilpasninger.
-- Planleggingsfunksjonalitet i Vigilo synkroniseres for tidlig.
+- Nye krav til datakvalitet i OAS som krever større tilpasninger.
+- Planleggingsfunksjonalitet i OAS synkroniseres for tidlig.
 - IST eller VIGO har ikke kapasitet til å endre løsningen før og under drift.
 - Elever mister tilganger i fagsystemet før tiden ved hyppige overføringer.
 - Skoler som ikke skal være med, blir likevel overført.
