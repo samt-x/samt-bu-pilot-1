@@ -79,7 +79,7 @@ Foreslått bemanning, som skal bekreftes ved oppstart:
 | Natalia Gundersen | VGO/inntak | Novari |
 | Christiane Fröhlich | Informasjonsarkitekt | Digdir |
 | Anders Alstad | Virksomhets- og løsningsarkitektur | Novari |
-| Benedicte Sørlie Olsen | Juss og sikkerhet |  |
+| Benedicte Sørlie Olsen | Juss og sikkerhet | Digdir |
 | Hanne Finnøy | Tjenestedesigner | Digdir |
 | IST og Novari | Utvikling og leverandør |  |
 
