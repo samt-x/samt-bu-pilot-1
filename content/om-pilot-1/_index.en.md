@@ -3,7 +3,7 @@
 id: 9dd3b980-0d28-40e6-a75d-fa528dcae738
 title: About pilot 1
 weight: 10
-lastmod: 2026-11-22T04:19:59+01:00
+lastmod: 2026-11-24T00:37:11+01:00
 last_editor: Erik Hagen
 
 ---
